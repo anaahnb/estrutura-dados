@@ -117,7 +117,7 @@ int main()
   return 0;
 }
 
-/* Quarta questão */
+/* Terceira questão */
 int retorna_remove_topo(Pilha *p1)
 {
   if (p1->topo > 0)
@@ -151,7 +151,7 @@ int main()
   return 0;
 }
 
-4)
+/* Quarta questão */
 void mais_elementos(Pilha *p1, Pilha *p2)
 {
   if (p1->topo > p2->topo)
